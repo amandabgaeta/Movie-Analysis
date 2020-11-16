@@ -8,11 +8,11 @@ Microsoft wants to start their own movie production studio, but they do not have
 
 Give Microsoft an understanding of the movie landscape of the last 10 years and give them pointed recommendations based on answering the following questions
 
-Question 1: What were the top movie genres made in the 2010s?
-Question 2: What is the best month to release a movie for highest worldwide gross?
-Question 3: Of movies that breakeven (ROI >= 1), what genres are most represented?
-Question 4: Based on production budget and average ratings, what genres are the best investments?
-Question 5: For these breakeven movies that fall into these genres, what is the recommended runtime and who are the highest rated directors?
+* Question 1: What were the top movie genres made in the 2010s?
+* Question 2: What is the best month to release a movie for highest worldwide gross?
+* Question 3: Of movies that breakeven (ROI >= 1), what genres are most represented?
+* Question 4: Based on production budget and average ratings, what genres are the best investments?
+* Question 5: For these breakeven movies that fall into these genres, what is the recommended runtime and who are the highest rated directors?
 
 ### The Data
 
