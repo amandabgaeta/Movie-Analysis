@@ -16,8 +16,10 @@ Give Microsoft an understanding of the movie landscape of the last 10 years and 
 
 ### The Data
 
-In this folder you will find
+In this folder you will find:
 * analysisWalkthrough - walks through creating the base dataset via merging/joining and cleansing as well as answering each of the above questions. Easily find analysis according to a question by using "Find" and searching for "Question #"
+
+* presentation.pdf - PDF of powerpoint slides for Microsoft presentation on answering the above questions and recommendations based off the data analysis answering those questions.
 
 Additional folders include:
 * images - holds all visualizations. Those in immediate folder are visualizations used in final Microsoft presentation. There is an additional subfolder 'prod_budg_by_gross_genre' for additional scatterplot visualizations of production budget by worldwide gross that highlights each genre. Saved these as they could be of interest in further exploring.
