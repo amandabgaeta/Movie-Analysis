@@ -55,7 +55,7 @@ Question 4: Based on production budget and average ratings, what genres are the 
 Dramas and Comedies are the best investment at $17MM and $25MM
 
 Question 5: For these breakeven movies that fall into these genres, what is the recommended runtime and who are the highest rated directors?
-Drama, Comedy, Action, Adventure, and Thriller should run between 1.75-2 hours. Director names are global and should be further researched after Microsoft makes more business Decisions
+Drama, Comedy, Action, Adventure, and Thriller should run between 1.75-2 hours. Director names are global and should be further researched after Microsoft makes more business decisions.
 
 ## Next Steps and Future Work
 
