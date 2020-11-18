@@ -8,16 +8,18 @@ Microsoft wants to start their own movie production studio, but they do not have
 
 Give Microsoft an understanding of the movie landscape of the last 10 years and give them pointed recommendations based on answering the following questions
 
-Question 1: What were the top movie genres made in the 2010s?
-Question 2: What is the best month to release a movie for highest worldwide gross?
-Question 3: Of movies that breakeven (ROI >= 1), what genres are most represented?
-Question 4: Based on production budget and average ratings, what genres are the best investments?
-Question 5: For these breakeven movies that fall into these genres, what is the recommended runtime and who are the highest rated directors?
+* Question 1: What were the top movie genres made in the 2010s?
+* Question 2: What is the best month to release a movie for highest worldwide gross?
+* Question 3: Of movies that breakeven (ROI >= 1), what genres are most represented?
+* Question 4: Based on production budget and average ratings, what genres are the best investments?
+* Question 5: For these breakeven movies that fall into these genres, what is the recommended runtime and who are the highest rated directors?
 
 ### The Data
 
-In this folder you will find
+In this folder you will find:
 * analysisWalkthrough - walks through creating the base dataset via merging/joining and cleansing as well as answering each of the above questions. Easily find analysis according to a question by using "Find" and searching for "Question #"
+
+* presentation.pdf - PDF of powerpoint slides for Microsoft presentation on answering the above questions and recommendations based off the data analysis answering those questions.
 
 Additional folders include:
 * images - holds all visualizations. Those in immediate folder are visualizations used in final Microsoft presentation. There is an additional subfolder 'prod_budg_by_gross_genre' for additional scatterplot visualizations of production budget by worldwide gross that highlights each genre. Saved these as they could be of interest in further exploring.
@@ -53,7 +55,7 @@ Question 4: Based on production budget and average ratings, what genres are the 
 Dramas and Comedies are the best investment at $17MM and $25MM
 
 Question 5: For these breakeven movies that fall into these genres, what is the recommended runtime and who are the highest rated directors?
-Drama, Comedy, Action, Adventure, and Thriller should run between 1.75-2 hours. Director names are global and should be further researched after Microsoft makes more business Decisions
+Drama, Comedy, Action, Adventure, and Thriller should run between 1.75-2 hours. Director names are global and should be further researched after Microsoft makes more business decisions.
 
 ## Next Steps and Future Work
 
